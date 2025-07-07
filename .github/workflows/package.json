@@ -1,6 +1,15 @@
 {
-  "name": "yourproject",
+  "name": "my-vue-project",
+  "version": "1.0.0",
+  "description": "My Vue.js project deployed to Cloudflare Pages",
   "scripts": {
-    "build": "your build command"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.7.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0"
   }
 }
