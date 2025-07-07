@@ -1,0 +1,6 @@
+{
+  "name": "yourproject",
+  "scripts": {
+    "build": "your build command"
+  }
+}
